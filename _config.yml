@@ -1,0 +1,4 @@
+title: 我的博客
+description: 学习 AGI 与人类意义的思考
+theme: jekyll-theme-cayman   # 如果你选的是 Cayman 主题
+markdown: kramdown
