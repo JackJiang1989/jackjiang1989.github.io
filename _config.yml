@@ -1,4 +1,21 @@
-title: 我的博客
-description: 学习 AGI 与人类意义的思考
-theme: jekyll-theme-cayman   # 如果你选的是 Cayman 主题
+title: AGI 与人类意义
+description: 记录关于 AI、AGI、文明发展与人类意义的思考
+theme: minima
+
 markdown: kramdown
+
+# 显示作者（可改为任何你喜欢的名字）
+author: Shengdao Jiang
+  name: Shengdao Jiang
+  email: jackjiang1989@email.com
+
+# 首页文章列表
+paginate: 10
+
+# GitHub Pages 默认插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 网址（自动生成时使用）
+url: "https://jackjiang1989.github.io"
