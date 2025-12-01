@@ -6,8 +6,8 @@ markdown: kramdown
 
 # 显示作者（可改为任何你喜欢的名字）
 author: ShengdaoJiang
-  name: ShengdaoJiang
-  email: jackjiang1989@email.com
+name: ShengdaoJiang
+email: jackjiang1989@email.com
 
 # 首页文章列表
 paginate: 10
